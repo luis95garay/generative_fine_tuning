@@ -1,0 +1,7 @@
+
+git+https://github.com/huggingface/diffusers
+torchvision
+transformers>=4.25.1
+matplotlib
+fastapi
+uvicorn
